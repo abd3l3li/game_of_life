@@ -4,7 +4,7 @@ A minimalist C implementation of Conway's Game of Life with an interactive drawi
 
 ## Table of Contents
 
-- [📋 Overview](#-overview)
+- [📋 Overview](#overview)
 - [🔨 Compilation](#-compilation)
 - [🚀 Usage](#-usage)
 - [🎮 Drawing Controls](#-drawing-controls)
