@@ -26,7 +26,7 @@ This program allows you to draw initial patterns using keyboard controls and the
 ## 🔨 Compilation
 
 ```bash
-gcc -o game_of_life game_of_life.c
+gcc -o game_of_life life.c
 ```
 
 ---
@@ -105,7 +105,7 @@ After the specified number of iterations, the program displays the final grid st
 ---
 
 ## 💾 Memory Management
-
+    
 The program properly allocates and frees memory for both grid buffers. It returns an error code if memory allocation fails.
 
 ---
