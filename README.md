@@ -17,7 +17,7 @@ A minimalist C implementation of Conway's Game of Life with an interactive drawi
 
 ---
 
-## Overview
+## 📋Overview
 
 This program allows you to draw initial patterns using keyboard controls and then simulates Conway's Game of Life cellular automaton for a specified number of iterations.
 
